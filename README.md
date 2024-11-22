@@ -46,3 +46,13 @@ Tratamento de Erros:
 
 O tratamento de erros é feito para possíveis problemas ao carregar o CSV.
 
+![image](https://github.com/user-attachments/assets/81ae7fd7-a4f9-4865-8a26-dcb0eb44e7ac)
+
+![image](https://github.com/user-attachments/assets/71eb55a4-478f-4179-b041-d37476cb6d82)
+
+![image](https://github.com/user-attachments/assets/6b9371be-0253-4bbb-8073-df01c2b9fc89)
+
+![image](https://github.com/user-attachments/assets/8c6f5630-6d50-46ab-8aee-2a90f0609d8a)
+
+![image](https://github.com/user-attachments/assets/57bd427d-9025-4523-b1d7-29c9aca48b3f)
+
